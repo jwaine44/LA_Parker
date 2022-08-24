@@ -1,6 +1,6 @@
 # L.A. Parker - Jared Waine's MERN stack project
 
-This project was created using the following technologies: MongoDB, Express, React, Node.js, JavaScript, and Google Maps API
+This project was created using the following technologies: MongoDB, Express, React, Node.js, JavaScript, and Google Maps API. Please refer to the Screenshots folder for some visuals of the project in action.
 
 ## About
 
